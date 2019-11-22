@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am hardciak on github.
+  * I am hardciak (https://keybase.io/hardciak) on keybase.
+  * I have a public key ASCz5mU3Fh72TO2Md-eH4DB--WwJhcN6p4sCDh6EATbKHgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b3e66537161ef64ced8c77e787e0307ef96c0985c37aa78b020e1e840136ca1e0a",
+      "host": "keybase.io",
+      "kid": "0120b3e66537161ef64ced8c77e787e0307ef96c0985c37aa78b020e1e840136ca1e0a",
+      "uid": "94d50cc6dee068e5b763d52e3df6d219",
+      "username": "hardciak"
+    },
+    "merkle_root": {
+      "ctime": 1574406767,
+      "hash": "8b4e7ccb164cbdc9b2e08fcb952003dfdac78f066397045e461604247f5a2bc53a41d2cfd0503578cdd89d61fc12f9413855cd5669a7eac3330c9b756d47f8d2",
+      "hash_meta": "adf6ac091909a554c25d7e4ca29d9b3f48e2ca9a5528588b919d42144a85627b",
+      "seqno": 10484560
+    },
+    "service": {
+      "entropy": "Bi9Cmtgi+nNRIgXakXefLoPc",
+      "name": "github",
+      "username": "hardciak"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574406953,
+  "expire_in": 504576000,
+  "prev": "625ec0c3ca0dbc335c19affb13b9fc5ba91730d054b04eb6ccc340a2f79f7674",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASCz5mU3Fh72TO2Md-eH4DB--WwJhcN6p4sCDh6EATbKHgo](https://keybase.io/hardciak), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgs+ZlNxYe9kztjHfnh+AwfvlsCYXDeqeLAg4ehAE2yh4Kp3BheWxvYWTESpcCC8QgYl7Aw8oNvDNcGa/7E7n8W6kXMNBUsE62zMNAovefdnTEICv78is2SrNcbYbvfb3s5yjXEYRrJpPyssEIbg9BGvfeAgHCo3NpZ8RAt1kmLDtKBrBL1MyXDIVDHpz7IzqKFwc2TFl9gJa939MX6YcZTUy/aQe0tORES78USLlOZxEN1Jzef8Mf2YwrDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGW1UqrUuiTU2P6/+fF1OizgAZ2ixITckTuaPtpHSEYCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/hardciak
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id hardciak
+```
